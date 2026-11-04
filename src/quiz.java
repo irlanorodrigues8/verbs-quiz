@@ -16,6 +16,15 @@ public class quiz {
         verbos.add("have");
         verbos.add("do");
         verbos.add("buy");
+        verbos.add("come");
+        verbos.add("take");
+        verbos.add("give");
+        verbos.add("get");
+        verbos.add("make");
+        verbos.add("say");
+
+
+
 
         passados.add("went");
         passados.add("wrote");
@@ -25,6 +34,12 @@ public class quiz {
         passados.add("had");
         passados.add("did");
         passados.add("bought");
+        passados.add("came");
+        passados.add("took");
+        passados.add("gave");
+        passados.add("got");
+        passados.add("made");
+        passados.add("said");
 
         int points = 0;
         for (int i = 0; i < verbos.size(); i++) {
